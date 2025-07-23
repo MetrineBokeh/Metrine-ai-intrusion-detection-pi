@@ -1,5 +1,5 @@
 # ai-intrusion-detection-pi
-Face Recognition with Dlib and YOLO | Real-Time Surveillance SystemThis project implements a low-cost, AI-based facial recognition system for intrusion detection using Raspberry Pi. The system uses live camera feed to detect known and unknown faces using two different models—Dlib and YOLOv4—and compares their performance using precision, recall, and F1-score metrics.
+Face Recognition with Dlib and YOLO | Real-Time Surveillance SystemThis project implements a low-cost, AI-based facial recognition system for intrusion detection using Raspberry Pi. The system uses live camera feed to detect known and unknown faces using two different models (Dlib and YOLOv4) and compares their performance using precision, recall, and F1-score metrics.
 
 # Requirements
 Make sure you have the following installed:
